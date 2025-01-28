@@ -1,8 +1,11 @@
-# React + Vite
+# React Router Tailwind CSS(v4.0) Latest DaisyUI5 Boilerplate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository provides a fully functional boilerplate for creating React projects with integrated React Router,Latest TailwindCSS(v4.0), DaisyUI, and essential configurations. It streamlines the process of starting a new project, allowing you to focus on building your application.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React Router DOM**: Set up for easy routing in your React applications.
+- **TailwindCSS**: Pre-configured utility-first CSS framework.
+- **DaisyUI**: Customizable component library built on TailwindCSS.
+- **Vite**: Fast development server and build tool.
+- **Linting**: Configured with ESLint for consistent code quality.

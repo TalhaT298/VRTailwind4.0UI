@@ -1,4 +1,4 @@
-# React Router Tailwind CSS(v4.0) Latest DaisyUI5 Boilerplate
+# React Router Latest Tailwind CSS(v4.0) DaisyUI5 Boilerplate
 
 This repository provides a fully functional boilerplate for creating React projects with integrated React Router,Latest TailwindCSS(v4.0), DaisyUI, and essential configurations. It streamlines the process of starting a new project, allowing you to focus on building your application.
 
